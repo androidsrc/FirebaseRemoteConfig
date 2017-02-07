@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>display_message</key>
+        <value>This is hello from old config</value>
+    </entry>
+    <entry>
+        <key>data_url</key>
+        <value>http://google.com</value>
+    </entry>
+</defaultsMap>
